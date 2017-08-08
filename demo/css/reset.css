@@ -1,0 +1,13 @@
+body,h1,h2,h3,h4,ul,ol,li,p,dl,dd,form,input,textarea,select,hr,div,span,input
+{padding:0; margin:0; font-family:arial;}
+
+
+
+li{list-style: none;}
+
+img{border: none;margin: 0;padding: 0;}
+
+a{text-decoration: none;}
+
+a:hover{
+text-decoration: underline;}
